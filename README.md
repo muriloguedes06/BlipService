@@ -15,7 +15,7 @@ Just download file `main_blips.lua` and put it in your project directory. it wil
 ```xml
 <meta>
     <oop>true</oop>
-    <info author='Askard' version='1.0' description='BlipService System' />
+    <info author='Murilo' version='1.0' description='BlipService System' />
 
     <script src='main_blips.lua' type='client' cache='false' />
 </meta>
@@ -83,4 +83,4 @@ end
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Askardevs/BlipService/blob/main/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muriloguedes06/BlipService/blob/main/LICENSE) file for details
